@@ -30,7 +30,7 @@ main:
     #     url: /projects/master-system/
     #   - name: "Clothing Range"
     #     url: /projects/clothing-range/
-  - name: 技术博客
+  - name: 智采数链视点
     url: /blog/
     weight: 4
   - name: 关于我们
@@ -40,38 +40,38 @@ main:
   #   url: https://www.zerostatic.io/theme/jekyll-advance/
   #   weight: 6
 footer_primary:
-  - name: Home
+  - name: 首页
     url: /
     weight: 1
-  - name: Services
+  - name: 专业服务
     url: /services/
     weight: 2
-  - name: Projects
+  - name: 成功案例
     url: /projects/
     weight: 3
-  - name: Team
+  - name: 团队风采
     url: /team/
     weight: 4
 footer_secondary:
-  - name: Blog
+  - name: 智采数链视点
     url: /blog/
     weight: 1
-  - name: About
+  - name: 关于我们
     url: /about/
     weight: 2
-  - name: Contact
+  - name: 联系方式
     url: /contact/
     weight: 3
 footer_tertiary:
-  - name: Privacy Policy
+  - name: 隐私条款
     url: /privacy-policy/
     weight: 1
-  - name: Terms and Conditions
+  - name: 使用条款
     url: /terms-and-conditions/
     weight: 2
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 3
+  # - name: Buy Now
+  #   url: https://www.zerostatic.io/theme/jekyll-advance/
+  #   weight: 3
 bottom:
   - name: Privacy Policy
     url: /privacy-policy/
