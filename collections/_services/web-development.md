@@ -1,6 +1,6 @@
 ---
-title: "Web Development"
-description: "Our experienced software engineers develop websites and desktop applications"
+title: "离散供应产业生态长链"
+description: "适用有中心生产型企业的行业供应链解决方案，将“区域内”供应链有效扩展至“区域间”，为生态链中的中小型供应商提供切实可落地的数字化供应链参与可行性。"
 date: 2017-11-28T15:14:54+10:00
 weight: 1
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-1.webp"
 
 hero:
   enabled: true
-  heading: "Web Development"
-  sub_heading: "Our experienced software engineers develop websites and desktop applications"
+  heading: "离散供应产业生态长链"
+  sub_heading: "适用有中心生产型企业的行业供应链解决方案，将“区域内”供应链有效扩展至“区域间”，为生态链中的中小型供应商提供切实可落地的数字化供应链参与可行性。"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true

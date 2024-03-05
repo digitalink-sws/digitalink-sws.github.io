@@ -58,7 +58,7 @@ body_classes: page-home
             {% assign url = null %}
           {% endif %}
           
-          <div class="col-12 col-md-4 {{ columns }} mb-3 {% if forloop.first %}mt-0 {% endif %} {% if forloop.last %}mb-0 {% endif %}">
+          <div class="col-12 col-lg-6 {{ columns }} mb-3 {% if forloop.first %}mt-0 {% endif %} {% if forloop.last %}mb-0 {% endif %}">
             {% include theme/cards/card-services.html 
               title=card.title 
               description=card.description

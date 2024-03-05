@@ -4,12 +4,12 @@ permalink: "/"
 title: "Jekyll Advance"
 description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: 智采数链 - 离散生产数字化供应链
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "智采数链"
+  sub_heading: "可落地的离散生产数字化供应链端到端解决方案。轻量化快速部署，非入侵式业务启动咨询，专业数字化服务团队。"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -38,20 +38,20 @@ hero:
 
 services:
   enabled: true
-  heading: "Our Services"
+  heading: "我们的专业服务："
   sub_heading: ""
-  limit: 6
+  limit: 4
   sort: "weight" # 'date'
-  view_more_button_text: "View All Services"
+  view_more_button_text: "更多服务详情…"
   view_more_button_link: "/services"
   prevent_click: false
 
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-5-thumbnail.webp"
-  heading: "We've helped hundreds of people grow their business online."
-  sub_heading: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
+  image: "/assets/images/gen/home/cruisor.jpg"
+  heading: "助力中国首条豪华邮轮制造"
+  sub_heading: "智采数链 离散生产数字化供应链解决方案，基于15年的船舶制造场景。2500万非标配件。"
   features:
     enabled: false
     list:
@@ -66,7 +66,7 @@ intro:
   buttons:
     enabled: true
     list:
-      - text: "About Us"
+      - text: "了解更多"
         url: "/about"
         external: false
         fa_icon: ""
@@ -75,13 +75,13 @@ intro:
         style: "primary"
 
 partners:
-  enabled: true
+  enabled: false
   limit: 5
   sort: "weight" # 'date'
 
 projects:
   enabled: true
-  heading: "Our Projects"
+  heading: "成功案例"
   sub_heading: ""
   limit: 2
   columns: 2

@@ -1,6 +1,6 @@
 ---
-title: "Web Design"
-description: "Design beautiful modern websites using the Jamstack."
+title: "智慧车间数字化基座解决方案"
+description: "整合边缘计算、 5G 与 现代 IoT 技术，优化传统生产场景的数字化基建改造过程，实现预制的线边机柜（机房）、数据小中台和AI应用的线边能力。"
 date: 2018-11-28T15:15:34+10:00
 weight: 4
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-4.webp"
 
 hero:
   enabled: true
-  heading: "Web Design"
-  sub_heading: "Design beautiful modern websites using the Jamstack."
+  heading: "智慧车间数字化基座解决方案"
+  sub_heading: "整合边缘计算、 5G 与 现代 IoT 技术，优化传统生产场景的数字化基建改造过程，实现预制的线边机柜（机房）、数据小中台和AI应用的线边能力。"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

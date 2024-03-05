@@ -3,24 +3,25 @@
 <div class="contact">
   {% if contact.email and contact.email != "" %}
     <div class="contact-email">
-      <strong>Email:</strong>
+      <strong>邮箱：</strong>
       <a href="mailto:{{ contact.email }}">{{ contact.email }}</a>
     </div>
   {% endif %}
   {% if contact.phone and contact.phone != "" %}
     <div class="contact-phone">
-      <strong>Phone:</strong>
+      <strong>电话：</strong>
       {{ contact.phone }}</div>
-  {% endif %}
-  {% if contact.fax and contact.fax != "" %}
-    <div class="contact-fax">
-      <strong>Fax:</strong>
-      {{ contact.fax }}</div>
   {% endif %}
   {% if contact.address and contact.address != "" %}
     <div class="contact-address">
-      <strong>Address:</strong>
-      {{ contact.address }} {% if contact.map_link %}<a href="{{ contact.map_link }}" target="_blank" rel="noreferrer">(View Map)</a> {% endif %}
+      <strong>地址：</strong>
+      {{ contact.address }}
     </div>
   {% endif %}
+  {% if contact.postcode and contact.postcode != "" %}
+    <div class="contact-fax">
+      <strong>邮编：</strong>
+      {{ contact.postcode }}</div>
+  {% endif %}
+  {% if contact.map_link %}<a href="{{ contact.map_link }}" target="_blank" rel="noreferrer">(View Map)</a> {% endif %}
 </div>

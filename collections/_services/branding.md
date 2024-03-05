@@ -1,6 +1,6 @@
 ---
-title: "Branding"
-description: "The expression of a brand including its name, trademark, and visual appearance."
+title: "AI类GPT知识图谱解决方案"
+description: "高效、有效、深度挖掘企业知识。整合自然语言处理（NLP）、知识图谱（KG）、大模型类ChatGPT、语音服务（TTS/ASR），增强企业管理知识、分享知识、使用知识的能力。"
 date: 2019-10-03
 weight: 3
 header_transparent: true
@@ -11,8 +11,8 @@ image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "Branding"
-  sub_heading: "The expression of a brand including its name, trademark, and visual appearance."
+  heading: "AI类GPT知识图谱解决方案"
+  sub_heading: "高效、有效、深度挖掘企业知识。整合自然语言处理（NLP）、知识图谱（KG）、大模型类ChatGPT、语音服务（TTS/ASR），增强企业管理知识、分享知识、使用知识的能力。"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

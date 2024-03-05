@@ -1,6 +1,6 @@
 ---
-title: "User Experience"
-description: "Understanding the needs of the user and creating product solutions."
+title: "域内供应协同生产短链"
+description: "脱胎于中船外高桥造船多年离散生产数字化演进的最佳实践。智采数链应链短链解决方案聚焦于“区域内”的供应链协同。"
 date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
@@ -10,8 +10,8 @@ image: "/assets/images/gen/services/service-2.webp"
 
 hero:
   enabled: true
-  heading: "User Experience"
-  sub_heading: "Understanding the needs of the user and creating product solutions."
+  heading: "域内供应协同生产短链"
+  sub_heading: "脱胎于中船外高桥造船多年离散生产数字化演进的最佳实践。智采数链应链短链解决方案聚焦于“区域内”的供应链协同。"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true

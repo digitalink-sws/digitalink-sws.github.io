@@ -1,44 +1,44 @@
 main:
-  - name: Home
+  - name: 首页
     url: /
     weight: 1
-  - name: Services
+  - name: 专业服务
     url: /services/
     weight: 1
     child:
-      - name: "Web Development"
+      - name: "供应链长链 - 行业生态 SaaS 服务"
         url: /services/web-development/
-      - name: "UX"
+      - name: "供应链短链 - 离散生产数字化方案"
         url: /services/user-experience/
-      - name: "Branding"
+      - name: "AI - 大模型知识图谱"
         url: /services/branding/
-      - name: "Web Design"
+      - name: "AI - 机器视觉应用"
         url: /services/web-design/
-      - name: "SEO"
+      - name: "边缘计算 - 智慧车间基建改造"
         url: /services/seo/
-      - name: "Software Engineering"
+      - name: "IoT - 5G 定位应用"
         url: /services/software-engineering/
-  - name: Projects
+  - name: 成功案例
     url: /projects/
     weight: 2
-    child:
-      - name: "Book Design"
-        url: /projects/book-design/
-      - name: "Special Edition"
-        url: /projects/special-edition/
-      - name: "Master System"
-        url: /projects/master-system/
-      - name: "Clothing Range"
-        url: /projects/clothing-range/
-  - name: Blog
+    # child:
+    #   - name: "Book Design"
+    #     url: /projects/book-design/
+    #   - name: "Special Edition"
+    #     url: /projects/special-edition/
+    #   - name: "Master System"
+    #     url: /projects/master-system/
+    #   - name: "Clothing Range"
+    #     url: /projects/clothing-range/
+  - name: 技术博客
     url: /blog/
     weight: 4
-  - name: About
+  - name: 关于我们
     url: /about/
     weight: 5
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 6
+  # - name: Buy Now
+  #   url: https://www.zerostatic.io/theme/jekyll-advance/
+  #   weight: 6
 footer_primary:
   - name: Home
     url: /
