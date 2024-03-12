@@ -8,8 +8,19 @@ meta_title: 智采数链 - 离散生产数字化供应链
 
 hero:
   enabled: true
-  heading: "智采数链"
-  sub_heading: "可落地的离散生产数字化供应链端到端解决方案。轻量化快速部署，非入侵式业务启动咨询，专业数字化服务团队。"
+  heading: "智采数链 - 活着的供应链生态系统"
+  sub_heading: "源自15年外高桥造船离散生产的实践经验，可落地的数字化供应链端到端 SaaS 解决方案。
+                <ul class='fs-5'>
+                  <li><i class='fa fa-check-square' aria-hidden='true'></i>
+                    <span style='margin-left: 0.75em;'>轻量化快速部署，降低信息化重资产投入</span>
+                  </li>
+                  <li><i class='fa fa-check-square' aria-hidden='true'></i>
+                    <span style='margin-left: 0.75em;'>非入侵式业务启动咨询，尊重既定生产关系</span>
+                  </li>
+                  <li><i class='fa fa-check-square' aria-hidden='true'></i>
+                    <span style='margin-left: 0.75em;'>专业数字化服务团队，让 toB 系统发挥真实效用</span>
+                  </li>
+                </ul>"
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -19,21 +30,21 @@ hero:
   fullscreen_desktop: false
   height: "660px"
   buttons:
-    enabled: false
+    enabled: true
     list:
-      - text: "Buy Now"
+      - text: "成功案例"
         url: "https://www.zerostatic.io/theme/jekyll-advance/"
         external: true
-        fa_icon: false
+        fa_icon: "fa fa-ship"
         size: large # "small", "normal", "large"
         outline: false
         style: "light" # "light", "dark", "primary"
-      - text: "Documentation"
+      - text: "了解更多"
         url: "https://www.zerostatic.io/docs/jekyll-advance/v2.0/"
         external: true
-        fa_icon: false
+        fa_icon: "fa fa-link"
         size: large
-        outline: true
+        outline: false
         style: "light"
 
 services:
@@ -51,9 +62,10 @@ intro:
   align: left
   image: "/assets/images/gen/home/cruisor.jpg"
   heading: "助力中国首条豪华邮轮制造"
-  sub_heading: "智采数链 离散生产数字化供应链解决方案，基于15年的船舶制造场景。2500万非标配件。"
+  sub_heading: "<p>上海外⾼桥造船海洋⼯程设计有限公司成⽴于2002年，是中国船舶集团旗下上海外⾼桥造船有限公司专业从事信息化的控股⼦公司。</p>
+                <p>公司⽴⾜船舶及制造⾏业，⾯向各⾏业打造成为国内⼀流的数字化转型服务商，产品与服务业绩遍及造船、医疗、零售、⾦融等多个⾏业，在企业信息化、智能制造和⼯业互联⽹领域占有领先优势。</p>"
   features:
-    enabled: false
+    enabled: true
     list:
       - text: "Configure the homepage sections in front-matter."
         fa_icon: "fas fa-check"
@@ -66,7 +78,7 @@ intro:
   buttons:
     enabled: true
     list:
-      - text: "了解更多"
+      - text: "了解智采数链"
         url: "/about"
         external: false
         fa_icon: ""

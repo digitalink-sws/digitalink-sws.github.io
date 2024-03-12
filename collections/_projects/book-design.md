@@ -1,5 +1,5 @@
 ---
-title: "Book Design"
+title: "沿江管业数字化生态链"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units."
 date: 2018-12-20
 weight: 1
