@@ -45,3 +45,8 @@
     {% endfor %}
   </ul>
 </div>
+{% if site.darkmode.enable_dark_mode and site.darkmode.show_dark_mode_toggle_in_bottom %}
+  <div class="col-auto" style="margin-left: 1em;">
+    {% include framework/dark-mode-switcher.html %}
+  </div>
+{% endif %}
