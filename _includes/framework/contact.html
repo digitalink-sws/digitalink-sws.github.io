@@ -23,5 +23,10 @@
       <strong>邮编：</strong>
       {{ contact.postcode }}</div>
   {% endif %}
-  {% if contact.map_link %}<a href="{{ contact.map_link }}" target="_blank" rel="noreferrer">(View Map)</a> {% endif %}
+  {% if contact.map_link %}
+    <a href="{{ contact.map_link }}" target="_blank" rel="noreferrer">
+      <i class="fa fa-map" aria-hidden="true" style="margin-right: 0.3em;"></i>
+      查看地图
+    </a>
+  {% endif %}
 </div>
