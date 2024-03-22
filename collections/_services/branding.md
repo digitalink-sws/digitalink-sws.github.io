@@ -16,8 +16,8 @@ hero:
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
-  background_image_blend_mode: false" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-3.webp"
+  background_image_blend_mode: multiply" # "overlay", "multiply", "screen"
+  background_image: "/assets/images/gen/services/service-ai-large.png"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
@@ -33,7 +33,7 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# 借力人工智能、高效利用企业知识数字化资产
 
 Web design encompasses many different skills and disciplines in the production and maintenance of websites.
 
