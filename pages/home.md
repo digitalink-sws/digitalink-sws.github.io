@@ -98,7 +98,7 @@ projects:
   limit: 2
   columns: 2
   sort: "weight" # 'date'
-  view_more_button_text: "View All Projects"
+  view_more_button_text: "了解更多案例…"
   view_more_button_link: "/projects"
   prevent_click: false
 
@@ -106,8 +106,8 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
+  heading: 现在就试用～
+  sub_heading: "联系我们智采数链的客户成功代表，即刻了解更多方案详情"
   features:
     enabled: false
     list:
@@ -116,19 +116,19 @@ outro:
   buttons:
     enabled: true
     list:
-      - text: "Contact Us"
+      - text: "<i class='fa fa-phone' aria-hidden='true' style='margin-right: 0.75em;'></i> 400-999-3001"
         url: "/contact"
         external: false
         size: "large"
 
 posts:
   enabled: true
-  heading: "Latest Posts"
+  heading: "智采数链视点"
   sub_heading: ""
   limit: 3
   columns: 3
   sort: "weight" # 'date'
-  view_more_button_text: "View All Posts"
+  view_more_button_text: "浏览历史更新…"
   view_more_button_link: "/blog"
   prevent_click: false
 ---
