@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: ""
-url: "https://jekyll-advance.netlify.app"
+url: "https://digitalink-sws.github.io" # Revise this url with the absolute url for production deployment.
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
