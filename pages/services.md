@@ -7,8 +7,8 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "Services"
-  sub_heading: "We offer a complete range of digital services."
+  heading: "离散制造 - 供应链专业服务"
+  sub_heading: "聚焦智能制造和工业互联网的端到端供应链解决方案体系"
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
@@ -51,14 +51,14 @@ intro:
 
 outro:
   enabled: true
-  align: left
+  align: center
   image: false
-  heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  heading: "现在就试用～"
+  sub_heading: "联系我们智采数链的客户成功代表，即刻了解更多方案详情"
   buttons:
     enabled: true
     list:
-      - text: "Get A Quote"
+      - text: "<i class='fa fa-phone' aria-hidden='true' style='margin-right: 0.75em;'></i> 400-999-3001"
         url: "/contact"
         external: false
         fa_icon: false

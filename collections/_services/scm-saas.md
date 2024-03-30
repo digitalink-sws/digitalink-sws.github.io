@@ -1,22 +1,23 @@
 ---
-title: "域内供应协同生产短链"
-description: "脱胎于中船外高桥造船多年离散生产数字化演进的最佳实践。智采数链应链短链解决方案聚焦于“区域内”的供应链协同。"
-date: 2018-11-28T15:15:34+10:00
-weight: 2
+title: "长链 - 行业供应链生态"
+description: "适用有中心生产型企业的行业供应链解决方案，将“区域内”供应链有效扩展至“区域间”，为生态链中的中小型供应商提供切实可落地的数字化供应链参与可行性。"
+date: 2017-11-28T15:14:54+10:00
+weight: 1
 header_transparent: true
-icon: "assets/images/icons/icons8-user-engagement-male-100.png"
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+fa_icon: false
+icon: "assets/images/icons/swse/connect.png"
+thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
+image: "/assets/images/gen/services/service-1.webp"
 
 hero:
   enabled: true
-  heading: "域内供应协同生产短链"
-  sub_heading: "脱胎于中船外高桥造船多年离散生产数字化演进的最佳实践。智采数链应链短链解决方案聚焦于“区域内”的供应链协同。"
-  text_color: "#ffffff"
+  heading: "离散供应产业生态长链"
+  sub_heading: "适用有中心生产型企业的行业供应链解决方案，将“区域内”供应链有效扩展至“区域间”，为生态链中的中小型供应商提供切实可落地的数字化供应链参与可行性。"
+  text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
-  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_image_blend_mode: false # "overlay", "multiply", "screen"
+  background_image: "/assets/images/gen/services/service-1-large.webp"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px

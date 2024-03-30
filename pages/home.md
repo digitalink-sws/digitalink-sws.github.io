@@ -9,7 +9,7 @@ meta_title: 智采数链 - 离散生产数字化供应链
 hero:
   enabled: true
   heading: "智采数链 - 活着的供应链生态系统"
-  sub_heading: "源自15年外高桥造船离散生产的实践经验，可落地的数字化供应链端到端 SaaS 解决方案。
+  sub_heading: "源自15年外高桥造船离散制造的实践经验，可落地的数字化、智能化供应链端到端 SaaS 解决方案。
                 <ul class='fs-5'>
                   <li><i class='fa fa-check-square' aria-hidden='true'></i>
                     <span style='margin-left: 0.75em;'>轻量化快速部署，降低信息化重资产投入</span>
@@ -33,15 +33,15 @@ hero:
     enabled: true
     list:
       - text: "成功案例"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
-        external: true
+        url: "/projects/scm_saas_yanjiang"
+        external: false
         fa_icon: "fa fa-ship"
         size: large # "small", "normal", "large"
         outline: false
         style: "light" # "light", "dark", "primary"
-      - text: "了解更多"
-        url: "https://www.zerostatic.io/docs/jekyll-advance/v2.0/"
-        external: true
+      - text: "了解智采数链"
+        url: "/about"
+        external: false
         fa_icon: "fa fa-link"
         size: large
         outline: false
@@ -49,7 +49,7 @@ hero:
 
 services:
   enabled: true
-  heading: "我们的专业服务："
+  # heading: "离散制造供应链专业服务"
   sub_heading: ""
   limit: 4
   sort: "weight" # 'date'
@@ -81,7 +81,7 @@ intro:
       - text: "了解智采数链"
         url: "/about"
         external: false
-        fa_icon: ""
+        fa_icon: "fa fa-link"
         size: large
         outline: false
         style: "primary"

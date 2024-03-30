@@ -1,26 +1,26 @@
 ---
-title: "AI类GPT知识图谱解决方案"
-description: "高效、有效、深度挖掘企业知识。整合自然语言处理（NLP）、知识图谱（KG）、大模型类ChatGPT、语音服务（TTS/ASR），增强企业管理知识、分享知识、使用知识的能力。"
-date: 2019-10-03
-weight: 3
+title: "边缘计算 - 智慧车间基建改造"
+description: "整合边缘计算、 5G 与 现代 IoT 技术，优化传统生产场景的数字化基建改造过程，实现预制的线边机柜（机房）、数据小中台和AI应用的线边能力。"
+date: 2018-11-28T15:15:34+10:00
+weight: 4
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-color-palette-100.png"
-thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
-image: "/assets/images/gen/services/service-3.webp"
+icon: "assets/images/icons/swse/i-mac.png"
+thumbnail: "/assets/images/gen/services/service-4-thumbnail.webp"
+image: "/assets/images/gen/services/service-4.webp"
 
 hero:
   enabled: true
-  heading: "AI类GPT知识图谱解决方案"
-  sub_heading: "高效、有效、深度挖掘企业知识。整合自然语言处理（NLP）、知识图谱（KG）、大模型类ChatGPT、语音服务（TTS/ASR），增强企业管理知识、分享知识、使用知识的能力。"
+  heading: "智慧车间数字化基座解决方案"
+  sub_heading: "整合边缘计算、 5G 与 现代 IoT 技术，优化传统生产场景的数字化基建改造过程，实现预制的线边机柜（机房）、数据小中台和AI应用的线边能力。"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
-  background_image_blend_mode: multiply" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-ai-large.png"
-  fullscreen_mobile: false
+  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
+  background_image: "/assets/images/gen/services/service-4-large.webp"
+  fullscreen_mobile: true
   fullscreen_desktop: false
-  height: 660px
+  height: 660px;
   buttons:
     enabled: false
     list:
@@ -33,7 +33,7 @@ hero:
         style: "primary"
 ---
 
-# 借力人工智能、高效利用企业知识数字化资产
+# Creating Modern Websites
 
 Web design encompasses many different skills and disciplines in the production and maintenance of websites.
 

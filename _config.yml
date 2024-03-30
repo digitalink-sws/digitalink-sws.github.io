@@ -166,7 +166,7 @@ analytics:
 
 comments:
   commento:
-    enabled: true # you must have a commento account and be on the correct domain. does not work locally.
+    enabled: false # you must have a commento account and be on the correct domain. does not work locally.
   disqus:
     shortname: "" # Your disqus shortcode for example "zerostatic". leave this blank ie "" to disable.
 
@@ -188,7 +188,7 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "智采数链"
-  footer_description: "领先的离散生产数字化供应链端到端解决方案"
+  footer_description: "领先的离散制造数字化供应链端到端解决方案体系"
   enable_social_media_icons: true
   enable_contact_details: true
   enable_menu_footer_primary: true
