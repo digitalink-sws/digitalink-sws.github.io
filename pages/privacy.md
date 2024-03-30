@@ -1,114 +1,47 @@
 ---
-title: "Privacy Policy"
-date: 2021-24-01
+title: "隐私条款"
+date: 2024-03-30
 layout: basic
 permalink: "/privacy-policy/"
 ---
 
+欢迎访问智采数链官网（以下简称“本网站”）。我们致力于保护访问者（以下简称“您”、“您的”）的隐私权利，并且我们认识到您在使用我们网站时对个人隐私的关注。因此，我们采取了**严格的政策以确保您的个人信息得到充分保护**。
 
-We have done our best to create a simple, transparent privacy policy. **Our aim is to collect and store no data, or as little as possible.** We only use cookies that are essential to run this website.
-
-This site is statically generated and served as HTML. Fundamentally this means there is very little surface area for this site to be hacked or compromised. It does not require a database or backend server to process and render documents. Technically there is still a webserver, but it serves pre-rendered documents generated at build time.
-
----
-
-## Services We Use
-
-### Analytics
-
-This site uses Plausible Analytics, a privacy focused GDPR compliant analytics alternative to Google Analytics. By using Plausible Analytics, all the site measurement is carried out absolutely anonymously. Cookies are not set and no personal data is collected. All data is in aggregate only. [Learn More](https://plausible.io/privacy-focused-web-analytics)
-
-### Advertising & Marketing 
-
-This site does not include any 3rd party advertising or marketing tracking code.
-
-### Fonts
-
-This website does not use Google fonts from the Google CDN. It uses a self-hosted version of fonts which are free of tracking.
-
-### Youtube
-
-If and where Youtube videos are embedded in this site, we use the Youtube privacy-enhanced embed mode. [Learn More](https://support.google.com/youtube/answer/171780?hl=en#zippy=%2Cturn-on-privacy-enhanced-mode)
-
-**Contact Form**
-
-We may request your personal information via our contact form. Personally identifiable information may include, but is not limited to:
-
-- Email address
-- First name and last name
-- Address
-- Phone number
-
-Any data you submit in this form may be shared with 3rd party service providers. These providers include, but are not limited to:
-
-- [Formspree](https://formspree.io/legal/privacy-policy/)
-- [Netlify](https://www.netlify.com/privacy/)
-
-Our contact page includes an email link where you may email us directly instead of using the contact form.
-
-**Newsletter Subscription**
-
-We may request your personal information via our newseltter subscription form. Personally identifiable information may include, but is not limited to:
-
-- Email address
-- First name and last name
-
-Any data you submit in this form may be shared with 3rd party service providers. These providers include, but are not limited to:
-
-- [Mailchimp](https://mailchimp.com/legal/)
-
-**Comments**
-
-When posting comments on this site, your data may be shared with a 3rd party service. These providers include, but are not limited to:
-
-- [Disqus](https://disqus.com/privacy-policy/)
-
+请仔细阅读以下条款以了解我们的**隐私实践**。
 
 ---
 
-## Information We Collect
+## 信息收集与使用
 
-We may collect the following types of personal data:
+  本网站坚决不收集访问者的任何个人识别信息。这意味着您在访问我们网站时，不需要提供任何个人信息，如姓名、地址、电话号码或电子邮件地址。我们的目标是为您提供无忧的浏览体验，确保您的在线隐私安全。
 
-- **Contact Information**: Name, email address, mailing address, phone number.
-- **Log Data**: Information that your browser sends whenever you visit our Site.
-- **Cookies**: Data files placed on your device or computer which often include an anonymous unique identifier.
+## 自动收集的非个人信息
 
-## How We Use Your Information
+  尽管我们不收集个人信息，但为了提升网站性能和用户体验，我们可能会自动收集某些非个人识别信息，如浏览器类型、操作系统、访问日期和时间以及您访问的页面。这些信息仅用于内部分析网站使用情况，并不会与任何第三方共享。
 
-We may use the information we collect for various purposes, including:
+## Cookie政策
 
-- **To Provide and Maintain the Site**: We use your personal data to provide you with access to our Site and to monitor and improve its performance.
-- **To Send You Updates and Marketing Communications**: We may send you newsletters or marketing communications about our services.
-- **To Comply With Legal Obligations**: We may use your information to comply with legal obligations, such as to respond to a subpoena or other legal request.
+  为清晰起见，我们再次强调，本网站不使用Cookie来收集访问者信息。我们尊重用户的隐私选择，因此决定不通过Cookie追踪任何用户行为或偏好。
 
-## Data Sharing and Disclosure
+## 数据安全
 
-We may share your personal data with third parties in the following situations:
+  尽管本网站不收集任何个人信息，我们仍然采用各种安全措施来保护网站免受未经授权的访问和使用。这些安全措施包括但不限于物理、技术和管理方面的措施。
 
-- **With Service Providers**: We may share your information with third-party service providers who perform services on our behalf.
-- **For Legal Purposes**: We may share your information when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+## 第三方网站链接
 
-## Your Rights
+  本网站可能包含通往其他网站的链接。请注意，当您点击这些链接离开我们的网站时，您将受到那些网站的隐私政策的约束，而这些政策可能与我们的不同。我们强烈建议您阅读这些网站的隐私政策，了解他们如何处理您的个人信息。
 
-You have the right to:
+## 政策更改
 
-- **Access**: Request access to your personal data.
-- **Correction**: Request correction of your personal data.
-- **Deletion**: Request deletion of your personal data.
-- **Data Portability**: Request the transfer of your personal data to another party.
-- **Withdraw Consent**: Withdraw your consent at any time where we rely on your consent to process your personal data.
+  我们保留随时更新或修改本隐私政策的权利，以反映我们隐私实践的变化或法律法规的更新。任何此类更改将在本网站上发布，并生效于发布之日。我们鼓励您定期查阅本政策，以确保您了解我们如何保护您的信息。
 
-## Security
+## 联系我们
 
-We take reasonable measures to help protect your personal data from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction.
+  如果您对本隐私政策有任何疑问或需要更多信息，请随时通过以下方式与我们联系：
 
-## Changes to This Privacy Policy
+  电子邮件：it@digitalink-sws.com
+  联系电话：400-999-3001
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+我们非常重视您的隐私和反馈，将尽全力保护您的个人信息并解答您的任何疑问。
 
----
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, You can contact us: [support@example.com](mailto:support@example.com)
+感谢您访问我们的网站。
