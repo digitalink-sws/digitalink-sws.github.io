@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Services
-description: "A selection of our digital services"
+title: 离散制造供应链专业服务
+description: "离散制造供应链专业服务"
 permalink: "/services/"
 header_transparent: true
 

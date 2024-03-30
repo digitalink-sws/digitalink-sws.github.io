@@ -1,6 +1,6 @@
 ---
 layout: basic
-title: "关于智采数链"
+title: "关于我们"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"

@@ -1,7 +1,7 @@
 ---
 layout: teamlist
-title: "Team"
-description: "Meet our dedicated team."
+title: "团队风采"
+description: "智采数链团队"
 permalink: "/team/"
 date: 2018-02-12T15:37:57+07:00
 header_transparent: true

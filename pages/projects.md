@@ -1,8 +1,8 @@
 ---
 layout: list
 collection: "projects"
-title: Projects
-description: "A selection of our work and projects."
+title: 成功案例
+description: "智采数链工赋链主成功案例"
 permalink: "/projects/"
 header_transparent: true
 

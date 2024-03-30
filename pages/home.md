@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "智采数链 - 离散生产数字化供应链"
+description: "源自15年外高桥造船离散制造的实践经验，可落地的数字化、智能化供应链端到端 SaaS 解决方案。"
 header_transparent: true
 meta_title: 智采数链 - 离散生产数字化供应链
 
