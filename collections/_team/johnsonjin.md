@@ -1,18 +1,18 @@
 ---
-title: "Robert Johnson"
+title: "金松 Johnson <hr />"
 date: 2018-12-20T13:44:30+10:00
 weight: 2
-description: "Web designer and UX specialist."
-thumbnail: "/assets/images/team/robert-johnson-thumbnail.jpg"
+description: ""
+thumbnail: "/assets/images/team/swse/jinsong.jpg"
 image: "/assets/images/team/robert-johnson.jpg"
-jobtitle: "Web Designer"
-links:
-  - url: "https://www.linkedin.com"
-    label: LinkedIn
-    icon: "fab fa-linkedin"
-  - url: "https://github.com"
-    label: Github
-    icon: "fab fa-github"
+jobtitle: "运营总监 / Operation Director"
+# links:
+#   - url: "https://www.linkedin.com"
+#     label: LinkedIn
+#     icon: "fab fa-linkedin"
+#   - url: "https://github.com"
+#     label: Github
+#     icon: "fab fa-github"
 ---
 
 Robert Johnson is a highly skilled and experienced web designer with a passion for creating stunning and user-friendly websites. With over ten years of experience in the industry, Robert has worked with numerous clients across various industries, including e-commerce, healthcare, and finance.

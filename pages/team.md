@@ -8,16 +8,16 @@ header_transparent: true
 
 hero:
   enabled: true
-  heading: "Our Team"
-  sub_heading: ""
+  heading: "智采数链"
+  sub_heading: "北海虽赊、行则将至<p style='font-size: 1em'>中国 上海 外高桥</p>"
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
-  background_image: false
+  background_image: "/assets/images/gen/content/swse/company.jpg"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: false
   fullscreen_desktop: false
-  height: "330px"
+  height: "430px"
   buttons:
     enabled: false
     list:
