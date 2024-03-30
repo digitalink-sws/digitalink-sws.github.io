@@ -1,11 +1,11 @@
 ---
 layout: basic
-title: "About Us"
+title: "关于智采数链"
 date: 2018-11-28T15:15:34+10:00
 header_transparent: false
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
-image: "/assets/images/gen/content/content-5.webp"
+description: "上海外高桥造船海洋工程设计有限公司成立于2002年, 是中国船舶集团旗下上海外高桥造船有限公司专业从事信息化业务的控股子公司。"
+image: "/assets/images/gen/content/swse/about-office.jpg"
 
 hero:
   enabled: false
@@ -24,40 +24,29 @@ hero:
         size: large
 ---
 
-# Creating Modern Websites
+# 创新离散制造供应链数字化服务
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+---
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+智采数链团队扎根船舶与离散制造行业，面向各类制造行业，致力于打造国内一流的供应链数字化转型服务商。产品与服务业绩遍及造船、医疗、零售、金融等多个行业，在离散制造型企业信息化/数字化、智能制造和工业互联网领域拥有实践经验和领先优势。2023年筹建独立的运营团队，目标成为船舶行业供应链数字化转型业务咨询领头企业。
 
-## What is Web Design?
+团队曾多次承接了国家工信部、国防科工委、上海市经信委、中船集团等课题研究工作。目前是外高桥造船智采数链 Digitalink &trade; 平台的建设者和运营方。
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/swse/ship-building.jpg" title="助力中国首艘大型豪华邮轮建造" caption="智采数链" alt="助力中国首艘大型豪华邮轮建造" %}
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+# 技术文化传承
 
-## Front-end Development
+---
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+> 没有一蹴而就的成功数字化转型项目，只有十五年脚踏实地的实践。
 
-> As a UX designer, you should consider the Why, What and How of product use.
+传统制造业技术文化的厚重与传承是智采数链的宝贵财富。我们曾承担母公司上海外高桥造船有限公司的信息化建设工作，研发的主要信息产品有造船企业管理信息系统（SWSTIME）、CAD/CAM 系统、辅助设计管理系统、办公辅助管理系统、HR 人事管理系统、财务管理系统、工控辅助系统、SWS移动应用平台等。
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+# 管理理念
 
-## Design Systems
+---
 
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
+团队坚持"以人为本，质量第一，讲究信誉、持续改进"的企业方针，大力引进中高级专业技术人才，广泛吸收造船界知名专家担任长期技术顾问，不断提升船型研发能力，完善详细设计能力、信息技术实力、管理咨询能力，为造船业提供优质服务。瞄准国际船舶市场，以创新、诚信作为发展宗旨，带领全体员工以务实、高效的精神完成每一个项目，打造最具创新力的科技公司。
 
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
 
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+<!-- {% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %} -->
