@@ -6,7 +6,7 @@ weight: 3
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/swse/robot-one.png"
-thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
+thumbnail: "/assets/images/gen/services/service-ai-kg-gpt.png"
 image: "/assets/images/gen/services/service-3.webp"
 
 hero:

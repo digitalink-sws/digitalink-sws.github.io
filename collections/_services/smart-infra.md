@@ -6,7 +6,7 @@ weight: 4
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/swse/i-mac.png"
-thumbnail: "/assets/images/gen/services/service-4-thumbnail.webp"
+thumbnail: "/assets/images/gen/services/service-edge-calc.png"
 image: "/assets/images/gen/services/service-4.webp"
 
 hero:

@@ -5,8 +5,8 @@ date: 2018-11-28T15:15:34+10:00
 weight: 2
 header_transparent: true
 icon: "assets/images/icons/swse/application-one.png"
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+thumbnail: "/assets/images/gen/services/service-4-thumbnail.webp"
+image: "/assets/images/gen/services/service-4.webp"
 
 hero:
   enabled: true
