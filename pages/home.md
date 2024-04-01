@@ -8,17 +8,17 @@ meta_title: 智采数链 - 离散生产数字化供应链
 
 hero:
   enabled: true
-  heading: "智采数链 - 活着的供应链生态系统"
-  sub_heading: "源自15年外高桥造船离散制造的实践经验，可落地的数字化、智能化供应链端到端 SaaS 解决方案。
+  heading: "智采数链"
+  sub_heading: "源自外高桥造船离散制造多年实践经验，活着的数字化、智能化供应链应用生态，可落地的端到端 SaaS 解决方案。
                 <ul class='fs-5'>
                   <li><i class='fa fa-check-square' aria-hidden='true'></i>
-                    <span style='margin-left: 0.75em;'>轻量化快速部署，降低信息化重资产投入</span>
+                    <span style='margin-left: 0.65em;'>轻量化快速部署，无需重资产投入</span>
                   </li>
                   <li><i class='fa fa-check-square' aria-hidden='true'></i>
-                    <span style='margin-left: 0.75em;'>非入侵式业务启动咨询，尊重既定生产关系</span>
+                    <span style='margin-left: 0.65em;'>非入侵启动咨询，尊重既有管理模式</span>
                   </li>
                   <li><i class='fa fa-check-square' aria-hidden='true'></i>
-                    <span style='margin-left: 0.75em;'>专业数字化服务团队，让 toB 系统发挥真实效用</span>
+                    <span style='margin-left: 0.65em;'>专职服务团队，发挥 toB 真实效用</span>
                   </li>
                 </ul>"
   text_color: "#FFFFFF"
