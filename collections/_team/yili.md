@@ -1,12 +1,12 @@
 ---
-title: "徐剑敏 Jimmy Xu <hr/>"
-date: 2024-03-30T13:44:30+08:00
-weight: 1
-description: "<p style='font-size: 0.9em; text-align: left;'><br />Jimmy 曾历任微软中国、DXC、IBM 与 HP等IT公司的技术与管理职务。2022至2023年，在财富500强供应链规划领导者，米巴赫科技中国区任 CIO与数字化事业部总经理。2021至2022年，在人工智能 NLP 赛道的独角兽竹间智能，担任交付总经理。<br /><br />
-Jimmy 也是资深数字化咨询师，热衷于开源文化，中国开源者大会 CosCon 讲者，Ruby/Rails 和 Python 的全栈工程师。</p>"
-thumbnail: "/assets/images/team/swse/jimmyxu.png"
+title: "李毅 Lorenzo Li <hr/>"
+date: 2024-04-01T13:44:30+08:00
+weight: 4
+description: "<p style='font-size: 0.9em; text-align: left;'><br />有 18 年市场工作经验，历任万人以上规模企业区域总经理、法人代表、市场总监、总经理助理，部门长等多个职位，横跨通信、建筑、互联网等行业。<br /><br />
+10年以上海外市场开发及管理实践经验，深耕垂直行业领域。专注于数字化项目国家市场开发，具有全球化视野，能在跨文化环境下快速开展工作。</p>"
+thumbnail: "/assets/images/team/swse/yili.jpg"
 image: "/assets/images/team/jessica-mannix.jpg"
-jobtitle: "首席运营官 / COO"
+jobtitle: "销售总监 / Sales Director"
 # links:
 #   - url: "https://www.linkedin.com"
 #     label: LinkedIn
