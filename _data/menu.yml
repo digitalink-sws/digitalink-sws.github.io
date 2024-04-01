@@ -9,13 +9,13 @@ main:
       - name: "长链 - 行业供应链生态"
         url: /services/scm-saas/
       - name: "短链 - 离散制造智能应用体系"
-        url: /services/user-experience/
+        url: /services/scm-applications/
       - name: "情报 - 行业知识图谱与数字资产"
-        url: /services/branding/
+        url: /services/ai-kg-gpt/
       # - name: "AIoT - 智能离散生产"
       #   url: /services/web-design/
       - name: "边缘计算 - 智慧车间基建改造"
-        url: /services/seo/
+        url: /services/smart-infra/
       # - name: "风控 - 数字技术供应链安全"
       #   url: /services/software-engineering/
   - name: 成功案例
